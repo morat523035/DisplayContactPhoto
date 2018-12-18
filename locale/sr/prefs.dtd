@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo - поставке">
+<!ENTITY tabs.generalSettings "Опште поставке">
+<!ENTITY tabs.facesLocalPhotos "Лица и локалне слике">
+<!ENTITY tabs.remotePhotos "Даљинске слике">
+<!ENTITY tabs.visualEffects "Визуелни ефекти">
+<!ENTITY tabs.miscellaneous "Остало">
+<!ENTITY maxSize.label "Максимална величина слике:">
+<!ENTITY messageDisplay.caption "Приказ поруке">
+<!ENTITY defaultPhoto.caption "Подразумевана слика">
+<!ENTITY defaultPhoto.generic "Подразумевана по Мозили">
+<!ENTITY defaultPhoto.labelGenericList "Изабери подразумевану слику:">
+<!ENTITY defaultPhoto.labelNoPhoto "Ако нема слике:">
+<!ENTITY defaultPhoto.show "прикажи подразумевану слику">
+<!ENTITY defaultPhoto.hide "прикажи празан простор">
+<!ENTITY defaultPhoto.collapse "не приказуј ништа">
+<!ENTITY composeWindow.label "Прозор за писање">
+<!ENTITY composeWindow.showPhotos "Прикажи слике прималаца">
+<!ENTITY composeWindow.photoPosition "Позиција слика:">
+<!ENTITY composeWindow.type "Стил:">
+<!ENTITY composeWindow.type.3d "3Д слике">
+<!ENTITY composeWindow.type.grid "Мрежа слика">
+<!ENTITY gravatar.enable "Омогући Граватаре">
+<!ENTITY gravatar.description "Граватар (скраћеница за глобално препознатљив аватар) је сервис за пружање јединствених аватара. Е-адреса се шифрује и шаље на gravatar.com. Ако је власник адресе регистрован на gravatar.com, његов/њен аватар ће бити приказан, а уколико то није случај, подразумевана слика сајта биће приказана. Граватар слике се чувају на локалном нивоу ради перформанси, као и да се смањи оптерећење мреже.">
+<!ENTITY gravatar.default "Подразумевани Граватар">
+<!ENTITY gravatar.defaultLogo "Подразумевана слика">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Позиција слике:">
+<!ENTITY position.left "лева страна">
+<!ENTITY position.right "десна страна">
+<!ENTITY faces.enable "Омогући приказивање уграђених лица">
+<!ENTITY faces.overrideDescription "У случају да су контактна слика и лице присутни:">
+<!ENTITY faces.displayPhoto "Прикажи контактну слику">
+<!ENTITY faces.displayFace "Прикажи лице">
+<!ENTITY faces.moreInfo "Посетите нашу матичну страницу за више информација:">
+<!ENTITY directory.enable "Омогући приказивање локалних слика">
+<!ENTITY directory.description1 "Називи датотека би требало садржати е-адресу и врсту датотеке.">
+<!ENTITY directory.description2 "Нпр. „info@mozilla.org.png“. Подржани формати: jpg, png, gif.">
+<!ENTITY directory.description3 "Цео назив датотеке мора бити написан малим словима.">
+<!ENTITY directory.description4 "Ако датотека постоји, она ће бити приказана без обзира на друге слике.">
+<!ENTITY directory.browseButton "Потражи фасциклу">
+<!ENTITY directory.openButton "Отвори фасциклу">
+<!ENTITY directory.enableWildcards "Омогући џокер слике">
+<!ENTITY directory.wildcardDescription "Ове слике додељене су целом домену и биће приказане само уколико нема других слика. Назив датотеке би требало садржати @ знак праћен називом домена и врстом датотеке, нпр. „@mozilla.org.png“">
+<!ENTITY effects.enableBackgroundColor "Попуни провидну област бојом:">
+<!ENTITY effects.backgroundLabel "Боја за провидне области (нпр., .png, .gif):">
+<!ENTITY effects.label "Визуелни ефекти">
+<!ENTITY effects.enableBorder "Прикажи ивице око слике">
+<!ENTITY effects.borderColor "Боја ивице:">
+<!ENTITY effects.colorDefaultBlack "Подразумевано: црна">
+<!ENTITY effects.colorDefaultWhite "Подразумевано: бела">
+<!ENTITY effects.borderThin "Танка ивица">
+<!ENTITY effects.borderBlurred "Замагљене дебље ивице">
+<!ENTITY effects.roundedCorners "Прикажи заобљене углове">
+<!ENTITY effects.enableShadow "Прикажи сенку">
+<!ENTITY effects.enableGloss "Додај ефекат сјаја на слику:">
+<!ENTITY effects.glossCurvedUp "закривљена нагоре">
+<!ENTITY effects.glossCurvedDown "закривљена надоле">
+<!ENTITY effects.glossHorizontal "хоризонтално">
+<!ENTITY effects.glossCorner "горњи леви угао">
+<!ENTITY effects.glossEdge "десна ивица">
+<!ENTITY effects.glossUpper "горња половина">
+<!ENTITY effects.glossDiagonal "дијагонално">
+<!ENTITY specialFolders.caption "Посебне фасцикле">
+<!ENTITY specialFolders.description "Посебне фасцикле су фасцикле за одлазне, послате и поруке скице. Поруке у једном од ових фасцикла се третирају на различите начине — по подразумеваним поставкама се приказују слике примаоца (с Ваше тачке гледишта). Дештриклирајте кућицу како бисте искључили ову опцију.">
+<!ENTITY specialFolders.label "Омогући посебне фасцикле">
+<!ENTITY clearCache.label "Чишћење привремене меморије">
+<!ENTITY clearCache.description "Привремена меморија мора бити ручно очишћена само ако сте променили слику у локалној фасцикли или ако желите да поново учитате све Граватаре.">
+<!ENTITY openWebsite.caption "Прикажи страницу са сликом контакта">
+<!ENTITY openWebsite.label "Након доградње, отвори белешку о издању">
+<!ENTITY pixels "тачкица/е">

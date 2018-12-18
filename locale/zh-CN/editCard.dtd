@@ -1,0 +1,3 @@
+<!ENTITY editCard.defaultPhotoLabel "（DCP 默认）">
+<!ENTITY editCard.setDefault "设为默认照片">
+<!ENTITY editCard.setDefaultAccesskey "e">

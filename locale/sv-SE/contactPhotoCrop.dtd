@@ -1,0 +1,4 @@
+<!ENTITY window.title "Beskär kontaktfoto">
+<!ENTITY removeselection.label "Ta bort markering">
+<!ENTITY squareselection.label "Gör markering kvadratisk">
+<!ENTITY donotcrop.description "Markera ingenting för att visa hela fotot.">

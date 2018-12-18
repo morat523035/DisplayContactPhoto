@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Opções do Display Contact Photo">
+<!ENTITY tabs.generalSettings "Configurações Gerais">
+<!ENTITY tabs.facesLocalPhotos "Rostos/Fotos Locais">
+<!ENTITY tabs.remotePhotos "Fotos Remotas">
+<!ENTITY tabs.visualEffects "Efeitos Visuais">
+<!ENTITY tabs.miscellaneous "Miscelânea">
+<!ENTITY maxSize.label "Tamanho máximo por foto:">
+<!ENTITY messageDisplay.caption "Visor de mensagens">
+<!ENTITY defaultPhoto.caption "Foto padrão">
+<!ENTITY defaultPhoto.generic "Padrão Mozilla">
+<!ENTITY defaultPhoto.labelGenericList "Escolha uma foto padrão:">
+<!ENTITY defaultPhoto.labelNoPhoto "Comportamento no caso de não haver foto:">
+<!ENTITY defaultPhoto.show "Mostrar a foto padrão">
+<!ENTITY defaultPhoto.hide "Mostrar espaço em branco">
+<!ENTITY defaultPhoto.collapse "Não mostrar nada">
+<!ENTITY composeWindow.label "Compose window">
+<!ENTITY composeWindow.showPhotos "Show photos of recipients">
+<!ENTITY composeWindow.photoPosition "Position of the photos:">
+<!ENTITY composeWindow.type "Estilo:">
+<!ENTITY composeWindow.type.3d "Pilha 3D">
+<!ENTITY composeWindow.type.grid "Grade de Fotos">
+<!ENTITY gravatar.enable "Ativar Gravatares">
+<!ENTITY gravatar.description "Gravatar (uma abreviação de avatar globalmente reconhecido) é um serviço para fornecer avatares únicos e globais. O endereço eletrônico é criptográfico e enviado à gravatar.com. Se o proprietário do endereço for registrado no gravatar.com, seu avatar será exibido; caso contrário, uma imagem padrão será exibida. As imagens Gravatar são armazenadas localmente em cache para melhorar o desempenho e para reduzir a carga na rede.">
+<!ENTITY gravatar.default "Gravatar Padrão:">
+<!ENTITY gravatar.defaultLogo "Imagem Padrão">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Posição da foto:">
+<!ENTITY position.left "Lado esquerdo">
+<!ENTITY position.right "Lado direito">
+<!ENTITY faces.enable "Ativar a exibição de rostos incorporados">
+<!ENTITY faces.overrideDescription "Comportamento se ambas foto do contato e rosto existirem:">
+<!ENTITY faces.displayPhoto "Mostrar a foto do contato">
+<!ENTITY faces.displayFace "Mostrar o rosto">
+<!ENTITY faces.moreInfo "Por favor, visite a seguinte página para maiores informações:">
+<!ENTITY directory.enable "Ativar exibição de fotos locais">
+<!ENTITY directory.description1 "Os nomes de arquivos devem ser compostos pelo endereço eletrônico e o tipo do arquivo.">
+<!ENTITY directory.description2 "Por exemplo: \'info@mozilla.org.png\'. Tipos de imagens suportados: jpg, png e gif.">
+<!ENTITY directory.description3 "Se esse arquivo existir, ele será exibido, independentemente de outras fotos.">
+<!ENTITY directory.description4 "Se essa imagem existir, ela será exibida, com prioridade sobre outras fotos.">
+<!ENTITY directory.browseButton "Buscar na pasta...">
+<!ENTITY directory.openButton "Abrir pasta">
+<!ENTITY directory.enableWildcards "Ativar domínio de fotos coringa">
+<!ENTITY directory.wildcardDescription "Essas fotos são atribuídos a um domínio inteiro e serão exibidas se não houver outra foto para mostrar. O nome do arquivo deverá ser composto por um símbolo @ seguido do nome de domínio e do tipo de arquivo, por exemplo \'@mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "Preencher espaços transparentes com a cor:">
+<!ENTITY effects.backgroundLabel "Cor para áreas transparentes de uma foto (por exemplo png, gif):">
+<!ENTITY effects.label "Efeitos visuais">
+<!ENTITY effects.enableBorder "Mostrar uma borda em torno da foto">
+<!ENTITY effects.borderColor "Cor da borda:">
+<!ENTITY effects.colorDefaultBlack "Padrão: preto">
+<!ENTITY effects.colorDefaultWhite "Padrão: branco">
+<!ENTITY effects.borderThin "Borda fina">
+<!ENTITY effects.borderBlurred "Borda borrada e espessa">
+<!ENTITY effects.roundedCorners "Exibir cantos arredondados">
+<!ENTITY effects.enableShadow "Exibir uma sombra">
+<!ENTITY effects.enableGloss "Adicione um efeito brilhante para a foto:">
+<!ENTITY effects.glossCurvedUp "Curved up">
+<!ENTITY effects.glossCurvedDown "Curved down">
+<!ENTITY effects.glossHorizontal "horizontal">
+<!ENTITY effects.glossCorner "borda">
+<!ENTITY effects.glossEdge "Right edge">
+<!ENTITY effects.glossUpper "Upper half">
+<!ENTITY effects.glossDiagonal "Diagonal">
+<!ENTITY specialFolders.caption "Pastas Especiais">
+<!ENTITY specialFolders.description "Pastas especiais são as pastas Saída, Enviados e Rascunhos. Mensagens em uma dessas pastas são tratadas de forma diferente: por padrão, elas exibem a foto do receptor. Desmarque a caixa de seleção para desativar esse comportamento.">
+<!ENTITY specialFolders.label "Ativar pastas especiais">
+<!ENTITY clearCache.label "Limpar cache de miniaturas">
+<!ENTITY clearCache.description "O cache de miniaturas deve ser limpo manualmente apenas se você tiver mudado uma foto na pasta local (você não precisa fazer isso se você apenas adicionou uma nova foto).">
+<!ENTITY openWebsite.caption "Display Contact Photo website">
+<!ENTITY openWebsite.label "Open release notes after the installation of a new version.">
+<!ENTITY pixels "pixels">

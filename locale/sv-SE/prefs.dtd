@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Inställningar för Display Contact Photo">
+<!ENTITY tabs.generalSettings "Allmänt">
+<!ENTITY tabs.facesLocalPhotos "Face-huvuden/Lokala foton">
+<!ENTITY tabs.remotePhotos "Fjärrfoton">
+<!ENTITY tabs.visualEffects "Visuella effekter">
+<!ENTITY tabs.miscellaneous "Övrigt">
+<!ENTITY maxSize.label "Maximal fotostorlek:">
+<!ENTITY messageDisplay.caption "Meddelandevisning">
+<!ENTITY defaultPhoto.caption "Standardfoto">
+<!ENTITY defaultPhoto.generic "Mozillas standard">
+<!ENTITY defaultPhoto.labelGenericList "Välj ett standardfoto:">
+<!ENTITY defaultPhoto.labelNoPhoto "Beteende om inget foto finns:">
+<!ENTITY defaultPhoto.show "Visa standardfotot">
+<!ENTITY defaultPhoto.hide "Visa en tom yta">
+<!ENTITY defaultPhoto.collapse "Visa ingenting">
+<!ENTITY composeWindow.label "Skriv-fönstret">
+<!ENTITY composeWindow.showPhotos "Visa mottagarnas foton">
+<!ENTITY composeWindow.photoPosition "Fotonas position:">
+<!ENTITY composeWindow.type "Stil:">
+<!ENTITY composeWindow.type.3d "3D-fotostapel">
+<!ENTITY composeWindow.type.grid "Fotorutnät">
+<!ENTITY gravatar.enable "Tillåt gravatarer">
+<!ENTITY gravatar.description "Gravatar (en förkortning av \'globally recognized avatar\') är en tjänst som tillhandahåller globala, unika avatarer. E-postadressen krypteras och skickas till gravatar.com. Om ägaren till adressen är registrerad på gravatar.com, kommer hans avatar att visas, i annat fall visas en standardgravatar. Gravatar-bilder cachas lokalt av prestandaskäl och för att minska nätverksbelastningen.">
+<!ENTITY gravatar.default "Standardgravatar:">
+<!ENTITY gravatar.defaultLogo "Standardbild">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Fotots position:">
+<!ENTITY position.left "Vänster sida">
+<!ENTITY position.right "Höger sida">
+<!ENTITY faces.enable "Tillåt visning av inbäddade Face-huvudbilder">
+<!ENTITY faces.overrideDescription "Beteende om både kontaktfoto och Face-bild finns:">
+<!ENTITY faces.displayPhoto "Visa kontaktfotot">
+<!ENTITY faces.displayFace "Visa Face-bilden">
+<!ENTITY faces.moreInfo "Besök gärna följande webbplats för mer information om Face:">
+<!ENTITY directory.enable "Tillåt visning av lokala foton">
+<!ENTITY directory.description1 "Filnamnet måste bestå av e-postadressen och filtypen.">
+<!ENTITY directory.description2 "T.ex. \'info@mozilla.org.png\'. Filtyper som stöds: jpg, png, gif.">
+<!ENTITY directory.description3 "Hela filnamnet måste skrivas med gemener.">
+<!ENTITY directory.description4 "Om en sådan fil finns kommer den att visas, oavsett andra foton.">
+<!ENTITY directory.browseButton "Bläddra i mapp…">
+<!ENTITY directory.openButton "Öppna mapp">
+<!ENTITY directory.enableWildcards "Tillåt domänanknutna standardfoton">
+<!ENTITY directory.wildcardDescription "De här fotona knyts till en hel domän och kommer att visas om det inte finns något annat foto att visa. Filnamnet måste bestå av ett @-tecken följt av domännamnet och filtypen, t.ex. \'@mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "Fyll transparenta ytor med en färg:">
+<!ENTITY effects.backgroundLabel "Färg för ett fotos transparenta ytor (i t.ex. .png, .gif):">
+<!ENTITY effects.label "Visuella effekter">
+<!ENTITY effects.enableBorder "Visa en ram runt fotot">
+<!ENTITY effects.borderColor "Ramfärg:">
+<!ENTITY effects.colorDefaultBlack "Standard: Svart">
+<!ENTITY effects.colorDefaultWhite "Standard: Vitt">
+<!ENTITY effects.borderThin "Tunn ram">
+<!ENTITY effects.borderBlurred "Suddig, tjockare ram">
+<!ENTITY effects.roundedCorners "Visa avrundade hörn">
+<!ENTITY effects.enableShadow "Visa en bakgrundsskugga">
+<!ENTITY effects.enableGloss "Lägg till en glanseffekt på fotot:">
+<!ENTITY effects.glossCurvedUp "Böjd uppåt">
+<!ENTITY effects.glossCurvedDown "Böjd nedåt">
+<!ENTITY effects.glossHorizontal "Horisontell">
+<!ENTITY effects.glossCorner "Övre vänstra hörnet">
+<!ENTITY effects.glossEdge "Höger kant">
+<!ENTITY effects.glossUpper "Övre halvan">
+<!ENTITY effects.glossDiagonal "Diagonal">
+<!ENTITY specialFolders.caption "Specialmappar">
+<!ENTITY specialFolders.description "Specialmapparna är Utkorgen, Skickat och Utkast. Meddelanden i dessa mappar behandlas annorlunda: De visar mottagarens foto (ur din synvinkel) som standard. Avmarkera kryssrutan för att stänga av den här funktionen.">
+<!ENTITY specialFolders.label "Tillåt specialmappar">
+<!ENTITY clearCache.label "Rensa miniatyrcachen">
+<!ENTITY clearCache.description "Miniatyrcachen behöver rensas manuellt endast om du har bytt ut ett foto i den lokala fotomappen eller om du vill ladda om alla gravatarer.">
+<!ENTITY openWebsite.caption "Display Contact Photos webbplats">
+<!ENTITY openWebsite.label "Visa info om förändringar efter installation av en ny version.">
+<!ENTITY pixels "pixlar">

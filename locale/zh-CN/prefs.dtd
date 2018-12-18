@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo 选项">
+<!ENTITY tabs.generalSettings "常规设置">
+<!ENTITY tabs.facesLocalPhotos "面部/本地照片">
+<!ENTITY tabs.remotePhotos "远程照片">
+<!ENTITY tabs.visualEffects "视觉效果">
+<!ENTITY tabs.miscellaneous "其他">
+<!ENTITY maxSize.label "照片的最大尺寸：">
+<!ENTITY messageDisplay.caption "消息显示">
+<!ENTITY defaultPhoto.caption "默认照片">
+<!ENTITY defaultPhoto.generic "Mozilla 默认">
+<!ENTITY defaultPhoto.labelGenericList "选择默认照片：">
+<!ENTITY defaultPhoto.labelNoPhoto "如果没有照片的行为：">
+<!ENTITY defaultPhoto.show "显示默认照片">
+<!ENTITY defaultPhoto.hide "显示为空白">
+<!ENTITY defaultPhoto.collapse "显示没有东西">
+<!ENTITY composeWindow.label "撰写窗口">
+<!ENTITY composeWindow.showPhotos "显示收件人的照片">
+<!ENTITY composeWindow.photoPosition "照片的位置：">
+<!ENTITY composeWindow.type "样式：">
+<!ENTITY composeWindow.type.3d "3D 层叠照片">
+<!ENTITY composeWindow.type.grid "照片网格">
+<!ENTITY gravatar.enable "启用 Gravatars">
+<!ENTITY gravatar.description "Gravatar 是一个提供全面统一头像的服务。电子邮件地址将被加密发送到 gravatar.com。如果该地址的持有者已在 gravatar.com 留有记录，那么就会显示他的头像，否则会显示 Gravatar 的默认头像。Gravatar 的图像会在本地缓存，以提高性能和减少网络负荷。">
+<!ENTITY gravatar.default "默认 Gravatar：">
+<!ENTITY gravatar.defaultLogo "默认图像">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "照片的位置：">
+<!ENTITY position.left "左侧">
+<!ENTITY position.right "右侧">
+<!ENTITY faces.enable "启用嵌入的面部显示">
+<!ENTITY faces.overrideDescription "如果联系人照片和面部都存在：">
+<!ENTITY faces.displayPhoto "显示联系人照片">
+<!ENTITY faces.displayFace "显示面部">
+<!ENTITY faces.moreInfo "请访问以下网站了解更多信息：">
+<!ENTITY directory.enable "启用本地照片的显示">
+<!ENTITY directory.description1 "文件名必须是电子邮箱地址和文件类型组成的。">
+<!ENTITY directory.description2 "例如 [info@mozilla.org.png]。支持图像类型：jpg、png、gif。">
+<!ENTITY directory.description3 "整个文件名必须是小写字母。">
+<!ENTITY directory.description4 "如果已存在这样的文件，它将显示其他照片。">
+<!ENTITY directory.browseButton "浏览目录…">
+<!ENTITY directory.openButton "打开目录">
+<!ENTITY directory.enableWildcards "启用域名通配符照片">
+<!ENTITY directory.wildcardDescription "这些照片被分配到一整个域，将在没有其他照片要显示时显示。文件名应该由一个 @ 符号及域名和文件类型组成，例如“@mozilla.org.png”">
+<!ENTITY effects.enableBackgroundColor "透明区域的填充颜色：">
+<!ENTITY effects.backgroundLabel "照片透明区域的颜色（例如 .png, .gif）：">
+<!ENTITY effects.label "视觉效果">
+<!ENTITY effects.enableBorder "在照片周围显示边框">
+<!ENTITY effects.borderColor "边框颜色：">
+<!ENTITY effects.colorDefaultBlack "默认：黑色">
+<!ENTITY effects.colorDefaultWhite "默认：白色">
+<!ENTITY effects.borderThin "细边框">
+<!ENTITY effects.borderBlurred "模糊的粗边框">
+<!ENTITY effects.roundedCorners "显示圆角">
+<!ENTITY effects.enableShadow "显示阴影">
+<!ENTITY effects.enableGloss "添加镜面效果到照片：">
+<!ENTITY effects.glossCurvedUp "向上弯曲">
+<!ENTITY effects.glossCurvedDown "向下弯曲">
+<!ENTITY effects.glossHorizontal "水平">
+<!ENTITY effects.glossCorner "左上角">
+<!ENTITY effects.glossEdge "右边缘">
+<!ENTITY effects.glossUpper "上半">
+<!ENTITY effects.glossDiagonal "对角线">
+<!ENTITY specialFolders.caption "特殊文件夹">
+<!ENTITY specialFolders.description "特殊文件夹是指发件箱，即已发送和草稿文件夹。在这些文件夹中的消息以一个不同的方式处理：它们默认情况下以您的视角显示接受者的照片。取消选中此框可关闭此行为。">
+<!ENTITY specialFolders.label "启用特殊文件夹">
+<!ENTITY clearCache.label "清除缩略图缓存">
+<!ENTITY clearCache.description "The thumbnail cache has to be cleared manually only if you have (ex)changed a photo in the local photo directory or if you want to reload all Gravatars.">
+<!ENTITY openWebsite.caption "Display Contact Photo 网站">
+<!ENTITY openWebsite.label "安装新版本后打开发行说明。">
+<!ENTITY pixels "像素">
