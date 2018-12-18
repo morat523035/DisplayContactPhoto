@@ -1,0 +1,4 @@
+<!ENTITY window.title "Ritaglia foto">
+<!ENTITY removeselection.label "Rimuovi selezione">
+<!ENTITY squareselection.label "Seleziona riquadro">
+<!ENTITY donotcrop.description "Non selezionare nulla per mostrare l\'intera foto.">

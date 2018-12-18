@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Névjegyfotó Megjelenítése Beállítások">
+<!ENTITY tabs.generalSettings "Általános beállítások">
+<!ENTITY tabs.facesLocalPhotos "Arcok/helyi fotók">
+<!ENTITY tabs.remotePhotos "Fotó eltávolítása">
+<!ENTITY tabs.visualEffects "Vizuális effektusok">
+<!ENTITY tabs.miscellaneous "Vegyes">
+<!ENTITY maxSize.label "Fotó maximális mérete:">
+<!ENTITY messageDisplay.caption "Üzenetek megjelenítése">
+<!ENTITY defaultPhoto.caption "Alapértelmezett fotó">
+<!ENTITY defaultPhoto.generic "Mozilla alapértelmezett">
+<!ENTITY defaultPhoto.labelGenericList "Alapértelmezett fotó kiválasztása:">
+<!ENTITY defaultPhoto.labelNoPhoto "Viselkedés fotó hiánya esetén:">
+<!ENTITY defaultPhoto.show "Alapértelmezett fotó megjelenítése">
+<!ENTITY defaultPhoto.hide "Üres hely megjelenítése">
+<!ENTITY defaultPhoto.collapse "Ne jelenítsen meg semmit">
+<!ENTITY composeWindow.label "Új üzenet ablak">
+<!ENTITY composeWindow.showPhotos "Címzettek fotóinak megjelenítése">
+<!ENTITY composeWindow.photoPosition "Fotók elhelyezkedése:">
+<!ENTITY composeWindow.type "Stílus:">
+<!ENTITY composeWindow.type.3d "3D fotó-megjelenítése">
+<!ENTITY composeWindow.type.grid "Fotók rácson">
+<!ENTITY gravatar.enable "Gravatars engedélyezése">
+<!ENTITY gravatar.description "A Gravatar (azaz a globális avatar) egy szolgáltatás, amely globálisan egyedi avatarokat szolgáltat. Az e-mail levélcím titkosítva kerül elküldésre a gravatar.com számára. Ha az e-mail levélcím tulajdonosa már regisztrált a gravatar.com webhelyen, az avatarja meg fog jelenni, ellenkező esetben az alapértelmezett gravatar kép kerül megjelenítésre. A Gravatar képek helyben is tárolásra kerülnek a teljesítmény növelése és a hálózati terhelés csökkentése érdekében.">
+<!ENTITY gravatar.default "Alapértelmezett Gravatar:">
+<!ENTITY gravatar.defaultLogo "Alapértelmezett kép">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Fotó elhelyezkedése:">
+<!ENTITY position.left "Bal oldalt">
+<!ENTITY position.right "Jobb oldalt">
+<!ENTITY faces.enable "Beágyazott arcok engedélyezése">
+<!ENTITY faces.overrideDescription "Viselkedés, ha a névjegyfotó és a beágyazott arc is elérhető">
+<!ENTITY faces.displayPhoto "Névjegyfotó megjelenítése">
+<!ENTITY faces.displayFace "Arc megjelenítése">
+<!ENTITY faces.moreInfo "További információkért látogassa meg a következő webhelyet:">
+<!ENTITY directory.enable "Helyi fotók megjelenítése">
+<!ENTITY directory.description1 "A fájlnévnek az e-mail címből és fájltípusból kell állnia.">
+<!ENTITY directory.description2 "Például: „info@mozilla.org.png”. Támogatott képformátumok: jpg, png, gif.">
+<!ENTITY directory.description3 "A fájlnév csak kisbetűket tartalmazhat.">
+<!ENTITY directory.description4 "Ha a fájl már létezik, megjelenítésre kerül, a többi fotótól függetlenül.">
+<!ENTITY directory.browseButton "Mappa tallózása…">
+<!ENTITY directory.openButton "Könyvtár megnyitása">
+<!ENTITY directory.enableWildcards "Tartományra vonatkozó fotók engedélyzése">
+<!ENTITY directory.wildcardDescription "Ezek a fotók az egész tartományra vonatkoznak, és megjelenítésre kerülnek, ha nincs más megjelenítendő fotó. A fájlnévnek „@” karakterrel kell kezdődnie, amelyet a tartománynév követ, majd pedig a fájltípus. Például: „@mozilla.org.png”">
+<!ENTITY effects.enableBackgroundColor "Átlátszó területek kitöltése színnel:">
+<!ENTITY effects.backgroundLabel "Átlátszó területek színe a fotón (például: .png, .gif):">
+<!ENTITY effects.label "Vizuális hatások">
+<!ENTITY effects.enableBorder "Keret megjelenítése a fotó körül">
+<!ENTITY effects.borderColor "Keretszín:">
+<!ENTITY effects.colorDefaultBlack "Alapértelmezett: fekete">
+<!ENTITY effects.colorDefaultWhite "Alapértelmezett: fehér">
+<!ENTITY effects.borderThin "Vékony keret">
+<!ENTITY effects.borderBlurred "Elmosott vastag keret">
+<!ENTITY effects.roundedCorners "Lekerekített sarkok">
+<!ENTITY effects.enableShadow "Árnyék">
+<!ENTITY effects.enableGloss "Ragyogás efektus a fotó körül:">
+<!ENTITY effects.glossCurvedUp "Felfelé">
+<!ENTITY effects.glossCurvedDown "Lefelé">
+<!ENTITY effects.glossHorizontal "Vízszintes">
+<!ENTITY effects.glossCorner "Bel felső sarok">
+<!ENTITY effects.glossEdge "Jobb él">
+<!ENTITY effects.glossUpper "Felső fele">
+<!ENTITY effects.glossDiagonal "Átlós">
+<!ENTITY specialFolders.caption "Speciális mappák">
+<!ENTITY specialFolders.description "Speciális mappa a Postázandó üzenetek, az Elküldött elemek és a Piszkozatok. Ezekben a mappákban lévő üzeneteket máshogy kezelik - az ön szemszögéből -  a címzett fotója jelenik meg alapértelmezetten. Itt ki tudja kapcsolni ezt a működési módot.">
+<!ENTITY specialFolders.label "Speciális mappák engedélyezése">
+<!ENTITY clearCache.label "Előnézeti képek gyorsítótárának törlése">
+<!ENTITY clearCache.description "Az előnézeti képek gyorsítótáát kézzel kell kiürítenie, ha a helyi fotó mappával közös fotói vannak, vagy ha az összes Gravatar képet le szeretné tölteni.">
+<!ENTITY openWebsite.caption "Névjegyfotó Megjelenítése weboldala">
+<!ENTITY openWebsite.label "Kiadási megjegyzések megjelenítése az új verzió telepítése után">
+<!ENTITY pixels "képpont">

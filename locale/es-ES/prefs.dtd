@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Mostrar Opciones de Contact Photo">
+<!ENTITY tabs.generalSettings "Ajustes Generales">
+<!ENTITY tabs.facesLocalPhotos "Caras/Fotos locales">
+<!ENTITY tabs.remotePhotos "Fotos remotas">
+<!ENTITY tabs.visualEffects "Efectos visuales">
+<!ENTITY tabs.miscellaneous "Varios">
+<!ENTITY maxSize.label "Tamaño máximo de una foto:">
+<!ENTITY messageDisplay.caption "Mostrar mensaje">
+<!ENTITY defaultPhoto.caption "Foto por defecto">
+<!ENTITY defaultPhoto.generic "Mozilla por defecto">
+<!ENTITY defaultPhoto.labelGenericList "Seleccionar foto por defecto:">
+<!ENTITY defaultPhoto.labelNoPhoto "Si no hay foto:">
+<!ENTITY defaultPhoto.show "Mostrar la foto por defecto">
+<!ENTITY defaultPhoto.hide "Mostrar espacio vacío">
+<!ENTITY defaultPhoto.collapse "No mostrar nada">
+<!ENTITY composeWindow.label "Componer ventana">
+<!ENTITY composeWindow.showPhotos "Mostrar fotos de receptores">
+<!ENTITY composeWindow.photoPosition "Posición de las fotos">
+<!ENTITY composeWindow.type "Estilo">
+<!ENTITY composeWindow.type.3d "Pila de fotos 3D">
+<!ENTITY composeWindow.type.grid "Regilla de fotos">
+<!ENTITY gravatar.enable "Habilitar avatares">
+<!ENTITY gravatar.description "Gravatar (una abreviación de avatar reconocido globalmente) es un servicio para proveer avatares únicos globalmente. LA dirección de correo electrónico se encripta y envía a gravatar.com. Se mostrará el avatar del propietario de la dirección si está registrado en gravatar.com, en otro caso se mostrará una imagen por defecto de gravatar. LAs imágenes gravatar se guardan localente para mejorar la respuesta y la carga de la red.">
+<!ENTITY gravatar.default "Avatar por defecto">
+<!ENTITY gravatar.defaultLogo "Imagen por defecto">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Posición de la foto">
+<!ENTITY position.left "Lado izquierdo">
+<!ENTITY position.right "Lado derecho">
+<!ENTITY faces.enable "Habilitar mostrar caras embevidas">
+<!ENTITY faces.overrideDescription "Si una foto de contacto y una cara están presentes, seleccionar:">
+<!ENTITY faces.displayPhoto "Mostrar foto de contacto">
+<!ENTITY faces.displayFace "Mostrar cara">
+<!ENTITY faces.moreInfo "Por favor visite la siguiente web para mas información:">
+<!ENTITY directory.enable "Habilitar mostrar fotos locales">
+<!ENTITY directory.description1 "El nombre del archivo ha de estar compuesto de una dirección de correo electrónico y u tipo de archivo.">
+<!ENTITY directory.description2 "Por ejemplo \'info@mozilla.org.png\'. Tipos de imagen soportados: jpg, png, gif.">
+<!ENTITY directory.description3 "El nombre completo del archivo ha de estar en minúsculas">
+<!ENTITY directory.description4 "Si ese archivo existe, se mostrará en lugar de otras fotos.">
+<!ENTITY directory.browseButton "Explorar carpeta...">
+<!ENTITY directory.openButton "Abrir carpeta">
+<!ENTITY directory.enableWildcards "Habilitar fotos comodín del dominio">
+<!ENTITY directory.wildcardDescription "Esas fotos se han asignado a un dominio entero y se mostrarán si no hay otra foto que mostrrar. El nombre del archivo suele estar compuesto de una arroba seguida del nombre de dominio y el tipo de archivo, ej. \'@mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "Rellenar áreas transparentes de color:">
+<!ENTITY effects.backgroundLabel "Color para áreas transparentes de la foto (.png .gif)">
+<!ENTITY effects.label "Efectos visuales">
+<!ENTITY effects.enableBorder "Mostrar un borde alrededor de la foto">
+<!ENTITY effects.borderColor "Color del borde:">
+<!ENTITY effects.colorDefaultBlack "Por defecto: negro">
+<!ENTITY effects.colorDefaultWhite "Por defecto: blanco">
+<!ENTITY effects.borderThin "Borde fino">
+<!ENTITY effects.borderBlurred "Borde fino desenfocado">
+<!ENTITY effects.roundedCorners "Mostrar esquinas redondeadas">
+<!ENTITY effects.enableShadow "Mostrar sombra">
+<!ENTITY effects.enableGloss "Añadir efecto brillante a la foto">
+<!ENTITY effects.glossCurvedUp "Curvada arriba">
+<!ENTITY effects.glossCurvedDown "Curvada abajo">
+<!ENTITY effects.glossHorizontal "Horizontal">
+<!ENTITY effects.glossCorner "Esquina superior izquierda">
+<!ENTITY effects.glossEdge "Lateral derecho">
+<!ENTITY effects.glossUpper "Mitad superior">
+<!ENTITY effects.glossDiagonal "Diagonal">
+<!ENTITY specialFolders.caption "Carpetas especiales">
+<!ENTITY specialFolders.description "Las carpetas especiales son la de Enviados y la de borradores. Los mensajes en una de esas carpetas se tratan de modo diferente: Por defecto muestran la foto del receptor (desde su punto de vista). Desmarque para deshabilitar esta opción.">
+<!ENTITY specialFolders.label "Habilitar carpetas especiales">
+<!ENTITY clearCache.label "Borrar caché de miniaturas">
+<!ENTITY clearCache.description "El caché de miniaturas se ha de borrar a mano solo si ha cambiado o intercambiado en la carpeta local de fotos o si desea recargar los Gravatares">
+<!ENTITY openWebsite.caption "Mostrar web de Contact Photo">
+<!ENTITY openWebsite.label "Abrir las notas de versión tras la instalación de una nueva versión">
+<!ENTITY pixels "pixels">

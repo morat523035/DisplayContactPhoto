@@ -1,0 +1,4 @@
+<!ENTITY window.title "Beskær kontaktfoto">
+<!ENTITY removeselection.label "Fjern beskæring">
+<!ENTITY squareselection.label "Firkantet beskæring">
+<!ENTITY donotcrop.description "Ikke vælg noget, for at se hele billedet.">

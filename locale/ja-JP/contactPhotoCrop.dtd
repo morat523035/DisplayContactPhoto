@@ -1,0 +1,4 @@
+<!ENTITY window.title "連絡先の写真の切り取り">
+<!ENTITY removeselection.label "選択の削除">
+<!ENTITY squareselection.label "矩形の選択">
+<!ENTITY donotcrop.description "写真全体を表示するには何も選択しないでください。">

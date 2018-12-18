@@ -1,0 +1,4 @@
+<!ENTITY window.title "Kontaktfoto zuschneiden">
+<!ENTITY removeselection.label "Auswahl aufheben">
+<!ENTITY squareselection.label "Quadratische Auswahl">
+<!ENTITY donotcrop.description "Nichts auswählen, um das gesamte Foto anzuzeigen.">

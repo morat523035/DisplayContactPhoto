@@ -1,0 +1,4 @@
+<!ENTITY window.title "Cortar foto de contacto">
+<!ENTITY removeselection.label "Eliminar selección">
+<!ENTITY squareselection.label "Selección cuadrada">
+<!ENTITY donotcrop.description "No seleccionar nada para mostrar la foto entera">

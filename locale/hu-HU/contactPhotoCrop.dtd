@@ -1,0 +1,4 @@
+<!ENTITY window.title "Névjegyfotó levágása">
+<!ENTITY removeselection.label "Kiválasztás eltávolítása">
+<!ENTITY squareselection.label "Négyzetes kijelölés">
+<!ENTITY donotcrop.description "A teljes fotó megjelenítése kiválasztás nélkül.">

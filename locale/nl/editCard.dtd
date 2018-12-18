@@ -1,0 +1,3 @@
+<!ENTITY editCard.defaultPhotoLabel "(DCP-standaard)">
+<!ENTITY editCard.setDefault "Standaardfoto toewijzen">
+<!ENTITY editCard.setDefaultAccesskey "e">

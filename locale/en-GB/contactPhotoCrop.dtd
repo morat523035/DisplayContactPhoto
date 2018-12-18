@@ -1,0 +1,4 @@
+<!ENTITY window.title "Crop contact photo">
+<!ENTITY removeselection.label "Remove selection">
+<!ENTITY squareselection.label "Square selection">
+<!ENTITY donotcrop.description "Don\'t select anything to show the entire photo.">

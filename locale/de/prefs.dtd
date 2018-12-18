@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo Einstellungen">
+<!ENTITY tabs.generalSettings "Allgemeine Einstellungen">
+<!ENTITY tabs.facesLocalPhotos "Faces/Lokale Fotos">
+<!ENTITY tabs.remotePhotos "Internetfotos">
+<!ENTITY tabs.visualEffects "Visuelle Effekte">
+<!ENTITY tabs.miscellaneous "Verschiedenes">
+<!ENTITY maxSize.label "Maximale Grösse des Fotos:">
+<!ENTITY messageDisplay.caption "Nachrichtenanzeige">
+<!ENTITY defaultPhoto.caption "Standardfoto">
+<!ENTITY defaultPhoto.generic "Standard">
+<!ENTITY defaultPhoto.labelGenericList "Wählen Sie ein Standardfoto:">
+<!ENTITY defaultPhoto.labelNoPhoto "Verhalten, wenn kein Foto vorhanden ist:">
+<!ENTITY defaultPhoto.show "Standardfoto anzeigen">
+<!ENTITY defaultPhoto.hide "Leeren Bereich anzeigen">
+<!ENTITY defaultPhoto.collapse "Nichts anzeigen">
+<!ENTITY composeWindow.label "Nachrichten verfassen">
+<!ENTITY composeWindow.showPhotos "Fotos der Empfänger anzeigen">
+<!ENTITY composeWindow.photoPosition "Position der Fotos">
+<!ENTITY composeWindow.type "Stil">
+<!ENTITY composeWindow.type.3d "3D Photo-Stack">
+<!ENTITY composeWindow.type.grid "Grid">
+<!ENTITY gravatar.enable "Gravatars aktivieren">
+<!ENTITY gravatar.description "Gravatar (eine Abkürzung für englisch &quot;globally recognized avatar&quot; - global erkennbarer Avatar) ist ein Dienst für global einzigartige Avatars. Die  E-Mail-Adresse wird verschlüsselt und an gravatar.com gesendet. Ist der Besitzer der Adresse bei gravatar.com registriert, wird sein Avatar angezeigt, sonst wird ein Gravatar-Standardbild angezeigt. Gravatars werden lokal gecached aus Effizienzgründen und um die Netzwerkbelastung zu verkleinern.">
+<!ENTITY gravatar.default "Standard-Gravatar">
+<!ENTITY gravatar.defaultLogo "Standardfoto">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Position des Fotos:">
+<!ENTITY position.left "Linke Seite">
+<!ENTITY position.right "Rechte Seite">
+<!ENTITY faces.enable "Anzeige von eingebetteten Faces aktivieren">
+<!ENTITY faces.overrideDescription "Verhalten, wenn ein Kontaktfoto und ein Face vorhanden sind:">
+<!ENTITY faces.displayPhoto "Kontaktfoto anzeigen">
+<!ENTITY faces.displayFace "Face anzeigen">
+<!ENTITY faces.moreInfo "Mehr Informationen finden Sie auf folgender Webseite:">
+<!ENTITY directory.enable "Anzeige von lokalen Fotos aktivieren">
+<!ENTITY directory.description1 "Die Dateinamen sollten aus der E-Mail-Adresse sowie dem Dateityp zusammengesetzt sein (alles in Kleinschrift).">
+<!ENTITY directory.description2 "Z.B. \'info@mozilla.org.png\'. Unterstützte Bildformate: jpg, png, gif.">
+<!ENTITY directory.description3 "Der gesamte Dateiname muss in Kleinschrift sein.">
+<!ENTITY directory.description4 "Falls eine solche Datei existiert, wird sie unabhängig von anderen Fotos angezeigt.">
+<!ENTITY directory.browseButton "Ordner auswählen…">
+<!ENTITY directory.openButton "Ordner öffnen">
+<!ENTITY directory.enableWildcards "Fotos einer Domain zuweisen (Wildcard)">
+<!ENTITY directory.wildcardDescription "Diese Fotos sind einer gesamten Domain zugewiesen und werden angezeigt, wenn es kein anderes Foto gibt. Der Dateinamen sollte folgendermassen zusammengesetzt sein: @-Zeichen, gefolgt von der Domain und der Dateiendung. Z.B. \'@mozilla.org.jpg\'">
+<!ENTITY effects.enableBackgroundColor "Transparente Bildbereiche mit einer Farbe füllen">
+<!ENTITY effects.backgroundLabel "Farbe für transparente Bereiche (z.B bei .png und .gif Bildern):">
+<!ENTITY effects.label "Visuelle Effekte für Fotos">
+<!ENTITY effects.enableBorder "Einen Rahmen um das Foto anzeigen">
+<!ENTITY effects.borderColor "Rahmenfarbe:">
+<!ENTITY effects.colorDefaultBlack "Standard: schwarz">
+<!ENTITY effects.colorDefaultWhite "Standard: weiss">
+<!ENTITY effects.borderThin "Dünner Rahmen">
+<!ENTITY effects.borderBlurred "Dickerer Rahmen mit Weichzeichner-Effekt">
+<!ENTITY effects.roundedCorners "Abgerundete Ecken anzeigen">
+<!ENTITY effects.enableShadow "Einen Schlagschatten anzeigen">
+<!ENTITY effects.enableGloss "Einen Glanzeffekt zum Foto hinzufügen:">
+<!ENTITY effects.glossCurvedUp "Nach oben gekrümmt">
+<!ENTITY effects.glossCurvedDown "Nach unten gekrümmt">
+<!ENTITY effects.glossHorizontal "Horizontal">
+<!ENTITY effects.glossCorner "Linke obere Ecke">
+<!ENTITY effects.glossEdge "Rechter Rand">
+<!ENTITY effects.glossUpper "Obere Hälfte">
+<!ENTITY effects.glossDiagonal "Diagonal">
+<!ENTITY specialFolders.caption "Spezielle Ordner">
+<!ENTITY specialFolders.description "Spezielle Ordner sind der Postausgang, der &quot;Gesendet&quot; und der &quot;Entwürfe&quot; Ordner. Nachrichten in einem dieser Ordner werden anders als die Übrigen behandelt: Anstatt des Fotos des Absenders wird standardmässig dasjenige des Empfängers (aus Ihrem Gesichtswinkel) dargestellt. Deativieren Sie diese Option, um dieses Verhalten auszuschalten.">
+<!ENTITY specialFolders.label "Spezielle Ordner aktivieren">
+<!ENTITY clearCache.label "Miniaturansichten-Cache leeren">
+<!ENTITY clearCache.description "Der Miniaturansichten-Cache muss nur manuell geleert werden, nachdem Sie Bilder im lokalen Fotoverzeichnis abgeändert haben oder wenn Sie alle Gravatars neu laden möchten.">
+<!ENTITY openWebsite.caption "Display Contact Photo Website">
+<!ENTITY openWebsite.label "Nach der Installation einer neuen Version die Release Notes öffnen.">
+<!ENTITY pixels "Pixel">

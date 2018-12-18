@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo 선택사항">
+<!ENTITY tabs.generalSettings "일반 설정">
+<!ENTITY tabs.facesLocalPhotos "얼굴/지역 사진">
+<!ENTITY tabs.remotePhotos "원격 사진">
+<!ENTITY tabs.visualEffects "시각 효과">
+<!ENTITY tabs.miscellaneous "기타">
+<!ENTITY maxSize.label "사진 최대 크기:">
+<!ENTITY messageDisplay.caption "메시지 표시">
+<!ENTITY defaultPhoto.caption "기본 사진">
+<!ENTITY defaultPhoto.generic "Mozilla 기본값">
+<!ENTITY defaultPhoto.labelGenericList "기본 사진 선택:">
+<!ENTITY defaultPhoto.labelNoPhoto "사진이 없을 시 동작:">
+<!ENTITY defaultPhoto.show "기본 사진 표시">
+<!ENTITY defaultPhoto.hide "빈 공간 표시">
+<!ENTITY defaultPhoto.collapse "표시하지 않음">
+<!ENTITY composeWindow.label "작성 창">
+<!ENTITY composeWindow.showPhotos "받는이의 사진 표시">
+<!ENTITY composeWindow.photoPosition "사진 위치:">
+<!ENTITY composeWindow.type "스타일:">
+<!ENTITY composeWindow.type.3d "3D 사진 스택">
+<!ENTITY composeWindow.type.grid "사진 눈금">
+<!ENTITY gravatar.enable "Gravatars 사용">
+<!ENTITY gravatar.description "(globally recognized avatar -세계적으로 인정받은 아바타-의 약자인) Gravatar는 세계적으로 독특한 아바타를 제공하는 서비스입니다. 이메일 주소는 암호화되어 gravatar.com에 전송됩니다. 만약 주소의 주인이 gravatar.com에 등록되어 있다면, 그의 아바타가 표시되고, 그렇지 않으면 gravatar 기본 이미지가 표시됩니다. gravatar 이미지는 성능적 이유와 네트워크 부하 감소를 위해 지역 캐쉬저장됩니다.">
+<!ENTITY gravatar.default "기본 Gravatar:">
+<!ENTITY gravatar.defaultLogo "기본 이미지">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "사진 위치:">
+<!ENTITY position.left "좌측">
+<!ENTITY position.right "우측">
+<!ENTITY faces.enable "내장된 얼굴 표시 허용">
+<!ENTITY faces.overrideDescription "연락처 사진 및 얼굴이 존재하는 경우 행동:">
+<!ENTITY faces.displayPhoto "연락처 사진 표시">
+<!ENTITY faces.displayFace "얼굴 표시">
+<!ENTITY faces.moreInfo "더 많은 정보를 원한다면 다음의 웹사이트에 방문하세요:">
+<!ENTITY directory.enable "지역 사진 표시 허용">
+<!ENTITY directory.description1 "파일명은 이메일 주소 및 파일 형식으로 구성 되어야 합니다.">
+<!ENTITY directory.description2 "예제, \'info@mozilla.org.png\'. 지원되는 이미지 형식: JPG, PNG, GIF.">
+<!ENTITY directory.description3 "전체 파일명은 소문자로 되어야 합니다.">
+<!ENTITY directory.description4 "동일한 파일이 존재하는 경우, 다른 사진과 관계없이 표시하게 됩니다.">
+<!ENTITY directory.browseButton "디렉토리 찾아보기...">
+<!ENTITY directory.openButton "디렉토리 열기">
+<!ENTITY directory.enableWildcards "도메인 와일드 카드 사진 사용">
+<!ENTITY directory.wildcardDescription "이 사진들은 전체 도메인에 지정되어 있어 만약 보여줄 다른 사진들이 없다면 표시하게 됩니다. 이들 파일명은 도메인 명과 파일 형식 뒤에 @기호로 구성됩니다, 예. \'@mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "투명 영역을 색으로 채우기:">
+<!ENTITY effects.backgroundLabel "사진의 투명 영역위한 색상 (예. .png, .gif)">
+<!ENTITY effects.label "시각 효과">
+<!ENTITY effects.enableBorder "사진에 테두리를 표시">
+<!ENTITY effects.borderColor "테두리 색상:">
+<!ENTITY effects.colorDefaultBlack "기본값 : 검정">
+<!ENTITY effects.colorDefaultWhite "기본값 : 흰색">
+<!ENTITY effects.borderThin "얇은 테두리">
+<!ENTITY effects.borderBlurred "흐릿한 두꺼운 테두리">
+<!ENTITY effects.roundedCorners "둥근 모서리 표시">
+<!ENTITY effects.enableShadow "Show a drop shadow">
+<!ENTITY effects.enableGloss "사진에 광택 효과 추가:">
+<!ENTITY effects.glossCurvedUp "Curved up">
+<!ENTITY effects.glossCurvedDown "Curved down">
+<!ENTITY effects.glossHorizontal "수평">
+<!ENTITY effects.glossCorner "상단 좌측 모서리">
+<!ENTITY effects.glossEdge "오른쪽 모서리">
+<!ENTITY effects.glossUpper "상단 절반">
+<!ENTITY effects.glossDiagonal "대각선">
+<!ENTITY specialFolders.caption "특수 폴더">
+<!ENTITY specialFolders.description "특수 폴더는 보낼 편지함, 보낸 편지함 및 임시 보관함 폴더입니다. 이들 폴더 중 하나에 있는 메시지는 다른 방식으로 취급됩니다: 기본값으로 (귀하의 입장에서) 수신인의 사진을 표시합니다. 이 동작을 꺼두려면 체크박스에서 체크를 해제하시기 바랍니다.">
+<!ENTITY specialFolders.label "특수 폴더 사용">
+<!ENTITY clearCache.label "미리보기 캐쉬 청소">
+<!ENTITY clearCache.description "미리보기 캐쉬는 지역 사진 디렉토리 내 사진이 변경되거나 모든 Gravatar들을 다시 불러오기 원할 경우에만 수동으로 정리해야 합니다.">
+<!ENTITY openWebsite.caption "Display Contact Photo 웹사이트">
+<!ENTITY openWebsite.label "새 버전 설치 후 출시 정보 열기">
+<!ENTITY pixels "픽셀">

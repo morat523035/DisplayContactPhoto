@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo možnosti">
+<!ENTITY tabs.generalSettings "Obecné nastavení">
+<!ENTITY tabs.facesLocalPhotos "Tváře/Místní fotografie">
+<!ENTITY tabs.remotePhotos "Odebrat fotografie">
+<!ENTITY tabs.visualEffects "Vizuální efekty">
+<!ENTITY tabs.miscellaneous "Různé">
+<!ENTITY maxSize.label "Maximální velikost fotografie:">
+<!ENTITY messageDisplay.caption "Message display">
+<!ENTITY defaultPhoto.caption "Výchozí fotografie">
+<!ENTITY defaultPhoto.generic "Výchozí z Mozilly">
+<!ENTITY defaultPhoto.labelGenericList "Vyberte výchozí fotografii:">
+<!ENTITY defaultPhoto.labelNoPhoto "Co zobrazit pokud není fotografie">
+<!ENTITY defaultPhoto.show "Zobrazit výchozí fotografii.">
+<!ENTITY defaultPhoto.hide "Zobrazit prázdné místo.">
+<!ENTITY defaultPhoto.collapse "Nezobrazovat nic.">
+<!ENTITY composeWindow.label "okno pro psaní">
+<!ENTITY composeWindow.showPhotos "Zobrazit fotky příjemců">
+<!ENTITY composeWindow.photoPosition "Poloha fotografie:">
+<!ENTITY composeWindow.type "Style:">
+<!ENTITY composeWindow.type.3d "3D Photo stack">
+<!ENTITY composeWindow.type.grid "Photo grid">
+<!ENTITY gravatar.enable "Povolit gravatary">
+<!ENTITY gravatar.description "Gravatar (zkratka pro celosvětově uznávaný avatar) je služba pro poskytování globálně-jedinečného avataru. E-mailová adresa je zašifrována a odeslána do gravatar.com. Pokud je vlastník adresy zapsána v gravatar.com, jeho avatar se zobrazí, jinak Gravatar zobrazuje výchozího obrázek. Gravatary jsou uložené lokálně z důvodů výkonu a snížení zatížení sítě.">
+<!ENTITY gravatar.default "Výchozí Gravatar:">
+<!ENTITY gravatar.defaultLogo "Výchozí obrázek">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Poloha fotografie:">
+<!ENTITY position.left "levá strana">
+<!ENTITY position.right "pravá strana">
+<!ENTITY faces.enable "Povolit zobrazení vložené tváře">
+<!ENTITY faces.overrideDescription "Co zobrazit pokud je u kontaktu přiřazena fotografie a tvář:">
+<!ENTITY faces.displayPhoto "Zobrazit fotografii kontaktu">
+<!ENTITY faces.displayFace "Zobrazit tvář">
+<!ENTITY faces.moreInfo "Prosím, navštivte následující webové stránky pro více informací:">
+<!ENTITY directory.enable "Povolit zobrazení místních fotografií">
+<!ENTITY directory.description1 "Názvy souborů by měly být složeny z e-mailovou adresu a přípony souboru.">
+<!ENTITY directory.description2 "Např. \'info@mozilla.org.png\'. Podporované typy souborů: jpg, png, gif.">
+<!ENTITY directory.description3 "Celý název souboru musí být malými znaky.">
+<!ENTITY directory.description4 "Pokud takový soubor existuje, bude zobrazen bez ohledu na další fotografie.">
+<!ENTITY directory.browseButton "Procházet…">
+<!ENTITY directory.openButton "Otevřít adresář">
+<!ENTITY directory.enableWildcards "Povolit domény zástupných fotografie">
+<!ENTITY directory.wildcardDescription "Tyto fotografie jsou zařazeny do celé domény a bude se zobrazí, pokud neexistuje žádná jiná fotka k zobrazení. Název souboru by měl být složen ze znaku @ a následuje doménové jméno a přípona souboru, např. \'@ Mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "Vyplnit průhledné oblasti s barvou:">
+<!ENTITY effects.backgroundLabel "Barva pro průhledné oblasti fotografie (např. .png,.gif):">
+<!ENTITY effects.label "Vizuální efekty">
+<!ENTITY effects.enableBorder "Zobrazit ohraničení fotky">
+<!ENTITY effects.borderColor "Barva rámečku:">
+<!ENTITY effects.colorDefaultBlack "Výchozí: černá">
+<!ENTITY effects.colorDefaultWhite "Výchozí: bílá">
+<!ENTITY effects.borderThin "Úzký okraj">
+<!ENTITY effects.borderBlurred "Rozmazané hranice tlustší">
+<!ENTITY effects.roundedCorners "Zobrazit zakulacené rohy">
+<!ENTITY effects.enableShadow "Zobrazení stínu">
+<!ENTITY effects.enableGloss "Vložit poznámku k fotografii:">
+<!ENTITY effects.glossCurvedUp "Zakřivený nahoru">
+<!ENTITY effects.glossCurvedDown "Zakřivený dolů">
+<!ENTITY effects.glossHorizontal "Vodorovný">
+<!ENTITY effects.glossCorner "Horní levý roh">
+<!ENTITY effects.glossEdge "pravý okraj">
+<!ENTITY effects.glossUpper "Horní polovina">
+<!ENTITY effects.glossDiagonal "Úhlopříčně">
+<!ENTITY specialFolders.caption "Speciální adresáře">
+<!ENTITY specialFolders.description "Zvláštní složky jsou složky K odeslání, Odeslané a Koncepty. Zprávy v z těchto složkách jsou ošetřeny jinak: ve výchozím nastavení se zobrazí fotografie příjemce (z vašeho pohledu). Zrušte zaškrtnutí políčka pro vypnutí tohoto chování.">
+<!ENTITY specialFolders.label "Povolit speciální adresáře">
+<!ENTITY clearCache.label "Vyčištění paměti náhledů">
+<!ENTITY clearCache.description "Vyčištění paměti náhledů musí být provedeno manuálně, pokud došlo ke změně v místním adresáři fotografií (Nemusí být provedeno při přidávání fotografií).">
+<!ENTITY openWebsite.caption "webové stránky Display Contact Photo">
+<!ENTITY openWebsite.label "Otevřít informace o vydání po instalaci nové verze.">
+<!ENTITY pixels "pixely">

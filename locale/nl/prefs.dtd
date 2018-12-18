@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "Display Contact Photo-opties">
+<!ENTITY tabs.generalSettings "Algemene instellingen">
+<!ENTITY tabs.facesLocalPhotos "Gezichten/lokale foto’s">
+<!ENTITY tabs.remotePhotos "Foto’s op afstand">
+<!ENTITY tabs.visualEffects "Visuele effecten">
+<!ENTITY tabs.miscellaneous "Diversen">
+<!ENTITY maxSize.label "Maximale fotogrootte:">
+<!ENTITY messageDisplay.caption "Berichtweergave">
+<!ENTITY defaultPhoto.caption "Standaardfoto">
+<!ENTITY defaultPhoto.generic "Mozilla-standaard">
+<!ENTITY defaultPhoto.labelGenericList "Kies een standaardfoto:">
+<!ENTITY defaultPhoto.labelNoPhoto "Gedrag bij ontbreken foto:">
+<!ENTITY defaultPhoto.show "Standaardfoto weergeven">
+<!ENTITY defaultPhoto.hide "Lege ruimte weergeven">
+<!ENTITY defaultPhoto.collapse "Niets weergeven">
+<!ENTITY composeWindow.label "Venster opstellen">
+<!ENTITY composeWindow.showPhotos "Foto’s van ontvangers weergeven">
+<!ENTITY composeWindow.photoPosition "Fotopositie:">
+<!ENTITY composeWindow.type "Stijl:">
+<!ENTITY composeWindow.type.3d "3D-stapel">
+<!ENTITY composeWindow.type.grid "Fotoraster">
+<!ENTITY gravatar.enable "Gravatars inschakelen">
+<!ENTITY gravatar.description "Gravatar (een afkorting voor globally recognized avatar) is een dienst die globaal unieke avatars biedt. Het e-mailadres wordt versleuteld en verzonden naar gravatar.com. Als de eigenaar van het adres is geregistreerd op gravatar.com wordt zijn/haar avatar weergegeven, anders wordt een standaard gravatar-afbeelding weergegeven. Gravatars worden lokaal opgeslagen om prestatieredenen en om de netwerkbelasting te verminderen.">
+<!ENTITY gravatar.default "Standaard Gravatar:">
+<!ENTITY gravatar.defaultLogo "Standaardafbeelding">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "Monsterid">
+<!ENTITY gravatar.defaultIdenticon "Identicon">
+<!ENTITY position.label "Fotopositie:">
+<!ENTITY position.left "Links">
+<!ENTITY position.right "Rechts">
+<!ENTITY faces.enable "Weergave ingebedde gezichten inschakelen">
+<!ENTITY faces.overrideDescription "Gedrag als een foto en gezicht aanwezig zijn:">
+<!ENTITY faces.displayPhoto "Foto contactpersoon weergeven">
+<!ENTITY faces.displayFace "Gezicht weergeven">
+<!ENTITY faces.moreInfo "Bezoek deze website voor meer informatie:">
+<!ENTITY directory.enable "Weergave van lokale foto’s inschakelen">
+<!ENTITY directory.description1 "De bestandsnamen dienen te zijn opgebouwd uit het e-mailadres en het bestandstype.">
+<!ENTITY directory.description2 "B.v. ‘info@mozilla.org.png’. Ondersteunde afbeeldingstypen: jpg, png en gif.">
+<!ENTITY directory.description3 "De gehele bestandsnaam dient te bestaan uit kleine letters.">
+<!ENTITY directory.description4 "Als een dergelijk bestand bestaat wordt dit weergegeven, ongeacht andere foto’s.">
+<!ENTITY directory.browseButton "Door map bladeren…">
+<!ENTITY directory.openButton "Map openen">
+<!ENTITY directory.enableWildcards "Wildcardfoto’s voor domeinen inschakelen">
+<!ENTITY directory.wildcardDescription "Deze foto’s worden toegewezen aan een heel domein en worden weergegeven als geen andere foto kan worden weergegeven. De bestandsnaam dient te zijn opgebouwd uit een ‘@’, gevolgd door de domeinnaam en het bestandstype, b.v. ‘@mozilla.org.png’.">
+<!ENTITY effects.enableBackgroundColor "Transparante gebieden met kleur vullen:">
+<!ENTITY effects.backgroundLabel "Kleur voor transparante gebieden in een foto (b.v. .png, .gif):">
+<!ENTITY effects.label "Visuele effecten">
+<!ENTITY effects.enableBorder "Rand rondom foto weergeven">
+<!ENTITY effects.borderColor "Randkleur:">
+<!ENTITY effects.colorDefaultBlack "Standaard: zwart">
+<!ENTITY effects.colorDefaultWhite "Standaard: wit">
+<!ENTITY effects.borderThin "Dunne rand">
+<!ENTITY effects.borderBlurred "Vage dikkere rand">
+<!ENTITY effects.roundedCorners "Afgeronde hoeken">
+<!ENTITY effects.enableShadow "Schaduw weergeven">
+<!ENTITY effects.enableGloss "Glanzend effect aan foto toevoegen:">
+<!ENTITY effects.glossCurvedUp "Omhooggekruld">
+<!ENTITY effects.glossCurvedDown "Omlaaggekruld">
+<!ENTITY effects.glossHorizontal "Horizontaal">
+<!ENTITY effects.glossCorner "Linkerbovenhoek">
+<!ENTITY effects.glossEdge "Rechterrand">
+<!ENTITY effects.glossUpper "Bovenste helft">
+<!ENTITY effects.glossDiagonal "Diagonaal">
+<!ENTITY specialFolders.caption "Speciale mappen">
+<!ENTITY specialFolders.description "Speciale mappen zijn de Postvakken UIT, Verzonden en Concepten. Berichten in één van deze mappen worden op een andere manier behandeld: ze geven standaard de foto van de ontvanger weer (vanuit u gezien). Vink het veld uit om dit gedrag uit te schakelen.">
+<!ENTITY specialFolders.label "Speciale mappen inschakelen">
+<!ENTITY clearCache.label "Miniaturencache opschonen">
+<!ENTITY clearCache.description "De miniaturencache hoeft alleen handmatig te worden opgeschoond als u een foto in de lokale fotomap heeft gewijzigd of gewisseld (het is niet nodig als u een foto toevoegt).">
+<!ENTITY openWebsite.caption "Display Contact Photo-website">
+<!ENTITY openWebsite.label "Uitgaveopmerkingen openen na installatie van een nieuwe versie.">
+<!ENTITY pixels "pixels">

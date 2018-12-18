@@ -1,0 +1,4 @@
+<!ENTITY window.title "연락처 사진 자르기">
+<!ENTITY removeselection.label "선택부분 삭제">
+<!ENTITY squareselection.label "사각 선택">
+<!ENTITY donotcrop.description "전체 사진을 볼 수 있게 아무것도 선택하지 마십시오.">

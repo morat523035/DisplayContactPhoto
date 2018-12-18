@@ -1,0 +1,73 @@
+<!-- do not translate \'Display Contact Photo\' -->
+<!ENTITY window.title "連絡先にある写真の表示 - オプション">
+<!ENTITY tabs.generalSettings "一般設定">
+<!ENTITY tabs.facesLocalPhotos "face/ローカルの写真">
+<!ENTITY tabs.remotePhotos "リモートの写真">
+<!ENTITY tabs.visualEffects "ビジュアル エフェクト">
+<!ENTITY tabs.miscellaneous "その他">
+<!ENTITY maxSize.label "写真の最大サイズ：">
+<!ENTITY messageDisplay.caption "メッセージの表示">
+<!ENTITY defaultPhoto.caption "標準の写真">
+<!ENTITY defaultPhoto.generic "Mozilla 標準">
+<!ENTITY defaultPhoto.labelGenericList "標準設定の写真の選択:">
+<!ENTITY defaultPhoto.labelNoPhoto "写真がない場合の振る舞い:">
+<!ENTITY defaultPhoto.show "標準の写真を表示する">
+<!ENTITY defaultPhoto.hide "空の空間を表示する">
+<!ENTITY defaultPhoto.collapse "なにも表示しない">
+<!ENTITY composeWindow.label "作成ウィンドウ">
+<!ENTITY composeWindow.showPhotos "受信者の写真の表示">
+<!ENTITY composeWindow.photoPosition "写真の位置">
+<!ENTITY composeWindow.type "スタイル:">
+<!ENTITY composeWindow.type.3d "3D での写真重ね合わせ">
+<!ENTITY composeWindow.type.grid "写真の重ね合わせ">
+<!ENTITY gravatar.enable "Gravar を有効にする">
+<!ENTITY gravatar.description "Gravatar (an abbreviation for globally recognized avatar) is a service for providing globally-unique avatars. The e-mail address is encrypted and sent to gravatar.com. If the owner of the address is registered at gravatar.com, his avatar will be displayed, otherwise a gravatar default image is displayed. Gravatar images are locally cached for performance reasons and to reduce network load.">
+<!ENTITY gravatar.default "標準の Gravatar">
+<!ENTITY gravatar.defaultLogo "標準の画像">
+<!ENTITY gravatar.defaultWavatar "Wavatar">
+<!ENTITY gravatar.defaultMonsterid "モンスター ID">
+<!ENTITY gravatar.defaultIdenticon "識別アイコン">
+<!ENTITY position.label "写真の位置:">
+<!ENTITY position.left "左側">
+<!ENTITY position.right "右側">
+<!ENTITY faces.enable "組み込みの face の表示を有効にする">
+<!ENTITY faces.overrideDescription "連絡先写真と face がある場合の振る舞い">
+<!ENTITY faces.displayPhoto "連絡先の写真を表示する">
+<!ENTITY faces.displayFace "face を表示する">
+<!ENTITY faces.moreInfo "追加情報は次のサイトを訪問してください:">
+<!ENTITY directory.enable "ローカルの写真表示を有効にする">
+<!ENTITY directory.description1 "ファイル名は、メールアドレスとファイルの種類で作成されなければなりません。">
+<!ENTITY directory.description2 "例えば「info@mozilla.org.png」などです。サポートする画像の種類は jpg、 png、 gif です。">
+<!ENTITY directory.description3 "入力したファイル名は英小文字です。">
+<!ENTITY directory.description4 "そのようなファイルが存在すれば、他の写真にかかわらず表示されるでしょう。">
+<!ENTITY directory.browseButton "ディレクトリーを参照する...">
+<!ENTITY directory.openButton "ディレクトリーを開く">
+<!ENTITY directory.enableWildcards "ドメインのワイルドカード写真を有効にする">
+<!ENTITY directory.wildcardDescription "These photos are assigned to an entire domain and will be displayed if there is no other photo to show. The file name should be composed of an @ sign followed by the domain name and the file type, e.g. \'@mozilla.org.png\'">
+<!ENTITY effects.enableBackgroundColor "透過エリアを指定の色で埋める:">
+<!ENTITY effects.backgroundLabel "写真の透過エリアの色 (例: .png、.gif):">
+<!ENTITY effects.label "ビジュアル エフェクト">
+<!ENTITY effects.enableBorder "写真の周りに枠線を表示する">
+<!ENTITY effects.borderColor "枠線の色:">
+<!ENTITY effects.colorDefaultBlack "標準: 黒">
+<!ENTITY effects.colorDefaultWhite "標準: 白">
+<!ENTITY effects.borderThin "薄い境界線">
+<!ENTITY effects.borderBlurred "Blurred thicker border">
+<!ENTITY effects.roundedCorners "丸い角で表示する">
+<!ENTITY effects.enableShadow "陰影を表示する">
+<!ENTITY effects.enableGloss "写真に光沢のエフェクトを加える:">
+<!ENTITY effects.glossCurvedUp "上から下">
+<!ENTITY effects.glossCurvedDown "下から上">
+<!ENTITY effects.glossHorizontal "水平">
+<!ENTITY effects.glossCorner "左上の角">
+<!ENTITY effects.glossEdge "右端">
+<!ENTITY effects.glossUpper "上半分">
+<!ENTITY effects.glossDiagonal "対角線">
+<!ENTITY specialFolders.caption "特殊なフォルダー">
+<!ENTITY specialFolders.description "Special folders are the Outbox, the Sent and the Drafts folder. Messages in one of these folders are treated in a different way: they display the photo of the receiver (from your point of view) by default. Uncheck the check box to turn off this behavior.">
+<!ENTITY specialFolders.label "特殊なフォルダーを有効にする">
+<!ENTITY clearCache.label "サムネイルのキャッシュを消去する">
+<!ENTITY clearCache.description "The thumbnail cache has to be cleared manually only if you have (ex)changed a photo in the local photo directory or if you want to reload all Gravatars.">
+<!ENTITY openWebsite.caption "連絡先にある写真の表示のウェブサイト">
+<!ENTITY openWebsite.label "新しいバージョンのインストール後にリリースノートを開く">
+<!ENTITY pixels "ピクセル">
