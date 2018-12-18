@@ -1,0 +1,30 @@
+content   contactPhoto   content/
+
+skin   contactPhoto   classic   skin/
+
+locale   contactPhoto   cs     locale/cs/
+locale   contactPhoto   da     locale/da/
+locale   contactPhoto   de     locale/de/
+locale   contactPhoto   en-GB  locale/en-GB/
+locale   contactPhoto   en-US  locale/en-US/
+locale   contactPhoto   es     locale/es/
+locale   contactPhoto   es-ES  locale/es-ES/
+locale   contactPhoto   fr     locale/fr/
+locale   contactPhoto   hu-HU  locale/hu-HU/
+locale   contactPhoto   it     locale/it/
+locale   contactPhoto   ja-JP  locale/ja-JP/
+locale   contactPhoto   ko-KR  locale/ko-KR/
+locale   contactPhoto   nl     locale/nl/
+locale   contactPhoto   pl     locale/pl/
+locale   contactPhoto   pt-BR  locale/pt-BR/
+locale   contactPhoto   sr     locale/sr/
+locale   contactPhoto   sv-SE  locale/sv-SE/
+locale   contactPhoto   zh-CN  locale/zh-CN/
+
+overlay   chrome://messenger/content/msgHdrViewOverlay.xul   chrome://contactPhoto/content/contactPhotoOverlay.xul
+overlay   chrome://messenger/content/addressbook/abCardOverlay.xul   chrome://contactPhoto/content/editCardOverlay.xul
+overlay   chrome://messenger/content/addressbook/addressbook.xul   chrome://contactPhoto/content/addressbookOverlay.xul
+overlay   chrome://messenger/content/messengercompose/messengercompose.xul   chrome://contactPhoto/content/composeOverlay.xul
+
+overlay   chrome://messenger/content/addressbook/abCardOverlay.xul   chrome://contactPhoto/content/genericPhotoListOverlay.xul
+overlay   chrome://contactPhoto/content/prefs.xul   chrome://contactPhoto/content/genericPhotoListOverlay.xul

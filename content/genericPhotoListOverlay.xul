@@ -1,0 +1,122 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://contactPhoto/skin/contactPhoto.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://contactPhoto/locale/genericPhotos.dtd">
+
+<overlay id="DCP-GenericPhotoList"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+
+<!-- abCardOverlay.xul -->
+<hbox id="abPhotoTab">
+
+  <menulist id="DCP-GenericPhotoListTemplate" hidden="true">
+    <menupopup>
+      <menuitem label="&genericphoto.dicop;" id="DCP-GenericPhotoDCP" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/displaycontactphoto.png"
+          image="chrome://contactPhoto/skin/genericIcons/displaycontactphoto-tiny.png"/>
+
+      <menuitem label="&genericphoto.gravatar;" id="DCP-GenericPhotoGravatar" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/gravatar.png"
+          image="chrome://contactPhoto/skin/genericIcons/gravatar-tiny.png"/>
+
+      <menuseparator/>
+
+      <menuitem label="&genericphoto.male1;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette8.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette8-tiny.png"/>
+
+      <menuitem label="&genericphoto.male2;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette1.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette1-tiny.png"/>
+
+      <menuitem label="&genericphoto.male3;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette2.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette2-tiny.png"/>
+
+      <menuitem label="&genericphoto.male4;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette4.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette4-tiny.png"/>
+
+      <menuitem label="&genericphoto.male5;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette5.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette5-tiny.png"/>
+
+      <menuseparator/>
+
+      <menuitem label="&genericphoto.female1;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette7.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette7-tiny.png"/>
+
+      <menuitem label="&genericphoto.female2;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette3.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette3-tiny.png"/>
+
+      <menuitem label="&genericphoto.female3;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette6.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette6-tiny.png"/>
+
+    </menupopup>
+  </menulist>
+
+</hbox>
+
+
+
+<!-- prefs.xul -->
+<tabpanel id="generalTab">
+
+  <menulist id="DCP-GenericPhotoListTemplate" hidden="true">
+    <menupopup>
+      <menuitem label="&genericphoto.dicop;" id="DCP-GenericPhotoDCP" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/displaycontactphoto.png"
+          image="chrome://contactPhoto/skin/genericIcons/displaycontactphoto-tiny.png"/>
+
+      <menuitem label="&genericphoto.gravatar;" id="DCP-GenericPhotoGravatar" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/gravatar.png"
+          image="chrome://contactPhoto/skin/genericIcons/gravatar-tiny.png"/>
+
+      <menuseparator/>
+
+      <menuitem label="&genericphoto.male1;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette8.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette8-tiny.png"/>
+
+      <menuitem label="&genericphoto.male2;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette1.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette1-tiny.png"/>
+
+      <menuitem label="&genericphoto.male3;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette2.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette2-tiny.png"/>
+
+      <menuitem label="&genericphoto.male4;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette4.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette4-tiny.png"/>
+
+      <menuitem label="&genericphoto.male5;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette5.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette5-tiny.png"/>
+
+      <menuseparator/>
+
+      <menuitem label="&genericphoto.female1;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette7.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette7-tiny.png"/>
+
+      <menuitem label="&genericphoto.female2;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette3.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette3-tiny.png"/>
+
+      <menuitem label="&genericphoto.female3;" class="menuitem-iconic"
+          value="chrome://contactPhoto/skin/genericIcons/person-silhouette6.png"
+          image="chrome://contactPhoto/skin/genericIcons/person-silhouette6-tiny.png"/>
+
+    </menupopup>
+  </menulist>
+
+</tabpanel>
+
+
+</overlay>

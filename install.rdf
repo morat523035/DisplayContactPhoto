@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>contactPhoto@leven.ch</em:id>
+    <em:name>Display Contact Photo</em:name>
+    <em:version>1.3.1.1</em:version> <!-- ALSO CHANGE contactPhoto.currentVersion in contactPhoto.js -->
+    <em:type>2</em:type>
+
+    <em:creator>Samuel Muller</em:creator>
+    <em:developer>Samuel Muller</em:developer>
+    <em:description>Displays the contact photo of the sender or recipient while reading or composing an e-mail.</em:description>
+    <em:optionsURL>chrome://contactPhoto/content/prefs.xul</em:optionsURL>
+    <em:iconURL>chrome://contactPhoto/skin/icon.png</em:iconURL>
+    <em:homepageURL>https://addons.mozilla.org/thunderbird/addon/58034</em:homepageURL>
+    <em:contributor>Sven Obser</em:contributor>
+
+    <!-- APPLICATIONS -->
+
+    <!-- Thunderbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+        <em:minVersion>38.0</em:minVersion>
+        <em:maxVersion>60.*</em:maxVersion>
+        <em:updateInfoURL>http://dicop.sourceforge.net/update-info.php?version=%ITEM_VERSION%</em:updateInfoURL>
+      </Description>
+    </em:targetApplication>
+
+    <!-- SeaMonkey -->
+    <!-- dropped seamonkey version due to address book changes in tb 7.0 (DCP 1.2.3)
+    <em:targetApplication>
+      <Description>
+        <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>2.1.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+    -->
+
+
+    <!-- LOCALES -->
+
+    <!-- cs -->
+    <em:localized>
+      <Description>
+        <em:locale>cs</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Zobrazuje kontaktní fotografii odesílatele nebo příjemce při čtení či psaní zprávy.</em:description>
+        <em:translator>anonymous</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- da -->
+    <em:localized>
+      <Description>
+        <em:locale>da</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Viser et billede af afsenderen eller modtageren, mens du læser eller skriver en besked.</em:description>
+        <em:translator>Morten Servais</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- de -->
+    <em:localized>
+      <Description>
+        <em:locale>de</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Zeigt das Foto des Absenders bzw. des Empfängers beim Lesen oder Schreiben einer Nachricht an.</em:description>
+        <em:translator>Samuel Müller</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- es -->
+    <em:localized>
+      <Description>
+        <em:locale>es</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Muestra la foto de contacto del remitente o destinatario mientras lee o redacta un mensaje.</em:description>
+        <em:translator>Manuel Muñoz</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- fr -->
+    <em:localized>
+      <Description>
+        <em:locale>fr</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Affiche la photo de la fiche du contact (expéditeur / destinataire) lors de la lecture ou de l'écriture d'un courriel.</em:description>
+        <em:translator>myahoo</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- it -->
+    <em:localized>
+      <Description>
+        <em:locale>it</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Mostra la foto del mittente o del destinatario nelle intestazioni del messaggio.</em:description>
+        <em:translator>gialloporpora</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- nl -->
+    <em:localized>
+      <Description>
+        <em:locale>nl</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Geeft de contactpersoonsfoto weer van de verzender of ontvanger tijden het lezen of opstellen van een bericht.</em:description>
+        <em:translator>markh van BabelZilla.org</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- pl -->
+    <em:localized>
+      <Description>
+        <em:locale>pl</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Wyświetla fotkę kontaktu nadwacy lub odbiorcy podczas czytani lub tworzenia wiadomości.</em:description>
+        <em:translator>Staszek Cieślicki (stahoo@poczta.onet.pl)</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- pt-BR -->
+    <em:localized>
+      <Description>
+        <em:locale>pt-BR</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Mostra a foto do remetente ou destinatário durante a leitura ou redação da mensagem.</em:description>
+        <em:translator>Edgard Dias Magalhães (edgard.magalhaes@gmail.com)</em:translator>
+      </Description>
+    </em:localized>
+
+    <!-- sr -->
+    <em:localized>
+      <Description>
+        <em:locale>sr</em:locale>
+        <em:name>Display Contact Photo</em:name>
+        <em:description>Приказује контактну слику пошаљиоца или примаоца у току читања или писања поруке.</em:description>
+        <em:translator>Charmed94</em:translator>
+      </Description>
+    </em:localized>
+  </Description>
+</RDF>

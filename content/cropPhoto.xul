@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://contactPhoto/locale/contactPhotoCrop.dtd">
+
+<dialog id="DCP-CropDialog" title="&window.title;"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  xmlns:html="http://www.w3.org/1999/xhtml"
+  ondialogaccept="return cropper.dialogAccept(event)"
+  ondialogcancel="return cropper.dialogCancel(event)"
+  onload="cropper.init();">
+
+<script type="application/x-javascript" src="chrome://contactPhoto/content/contactPhoto.js"/>
+<script type="application/x-javascript" src="chrome://contactPhoto/content/cropPhoto.js"/>
+
+<vbox>
+  <box style="border: 2px solid black;">
+    <stack style="position:relative;">
+      <html:canvas id="DCP-CropCanvas" width="300" height="300" style="display:block" top="0" left="0"/>
+      <box id="DCP-CropSelection" hidden="true" mousethrough="always" style="border:1px dashed #fff; "/>
+      <box id="DCP-CropSelectionBackground" hidden="true" mousethrough="always" style="background:#fff; opacity: 0.3;"/>
+    </stack>
+  </box>
+
+  <description>&donotcrop.description;</description>
+  <hbox>
+    <button id="DCP-RemoveSelection" label="&removeselection.label;" oncommand="cropper.removeSelection();"/>
+    <checkbox id="DCP-SquareSelection" label="&squareselection.label;" persist="checked"/>
+  </hbox>
+
+</vbox>
+</dialog>

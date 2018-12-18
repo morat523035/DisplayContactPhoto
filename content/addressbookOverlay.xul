@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://contactPhoto/skin/contactPhoto.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://contactPhoto/locale/contactPhotoOverlay.dtd">
+
+<overlay id="DCP-Addressbook"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/javascript" src="chrome://contactPhoto/content/contactPhoto.js"/>
+<script type="application/javascript" src="chrome://contactPhoto/content/addressbookOverlay.js"/>
+
+<vbox id="cvbPhoto" tooltiptext="&photo.tooltip;">
+
+  <menupopup id="DCP-Contextmenu">
+    <menuitem label="&contextmenu.prefs;" id="DCP-ContextmenuPrefs"
+      oncommand="contactPhoto.utils.openPreferencesWindow();"/>
+  </menupopup>
+</vbox>
+
+</overlay>

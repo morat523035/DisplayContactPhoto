@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://contactPhoto/skin/contactPhoto.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://contactPhoto/locale/editCard.dtd">
+
+<overlay id="DCP-ContactCard"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  xmlns:html="http://www.w3.org/1999/xhtml">
+
+<script type="application/x-javascript" src="chrome://contactPhoto/content/contactPhoto.js"/>
+<script type="application/x-javascript" src="chrome://contactPhoto/content/editCardOverlay.js"/>
+
+
+<vbox id="GenericPhotoContainer">
+  <hbox id="DCP-GenericPhotoHbox" insertbefore="GenericPhotoList">
+    <!-- <radio id="GenericPhotoType"/> is moved here using javascript -->
+
+    <button id="DCP-ButtonSetDefaultPhoto" oncommand="contactPhoto.editCard.setDefaultPhoto();" label="&editCard.setDefault;" accesskey="&editCard.setDefaultAccesskey;"/>
+  </hbox>
+
+  <!-- this <label> is only used to transfer the text. no need for a stringbundle for just one string -->
+  <label id="DCP-LabelIsDefaultPhoto" value="&editCard.defaultPhotoLabel;" hidden="true"/>
+</vbox>
+
+</overlay>
